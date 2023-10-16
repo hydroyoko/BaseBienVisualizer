@@ -1,0 +1,10 @@
+https://pymysql.readthedocs.io/en/latest/user/examples.html
+https://medium.com/@kn.lakshmi948/executing-different-mysql-queries-in-python-using-pymysql-part-1-4b22eac00ff
+https://www.w3schools.com/mysql/mysql_datatypes.asp
+https://github.com/etalab/DVF-app/blob/master/db/create_table.sql
+https://github.com/etalab/DVF-app/tree/master/static/donneesgeo
+https://fr.wikipedia.org/wiki/Quartiers_de_Rennes
+https://app.dvf.etalab.gouv.fr/
+https://plotly.com/python/is-plotly-free/
+
+https://webcache.googleusercontent.com/search?q=cache:https://medium.com/plain-simple-software/put-json-log-data-into-a-mysql-database-with-pymysql-d69378f2e57c
